@@ -1,0 +1,8 @@
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter-versions
+.flutter/
+ios/Flutter/Flutter.framework.dSYM
+build/

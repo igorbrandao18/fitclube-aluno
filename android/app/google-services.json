@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "608019917102",
+    "project_id": "fit-clube-a-d-m-9hg8i5",
+    "storage_bucket": "fit-clube-a-d-m-9hg8i5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608019917102:android:ac66c64664cd3263ef32bf",
+        "android_client_info": {
+          "package_name": "com.example.heart_rate_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLMd0rTJwWXjVhM-249YzeZq4Xb7MU4lY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608019917102:android:fdb3cfef957928a0ef32bf",
+        "android_client_info": {
+          "package_name": "com.waketecnologia.fitclubeadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLMd0rTJwWXjVhM-249YzeZq4Xb7MU4lY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608019917102:android:9b99563590119038ef32bf",
+        "android_client_info": {
+          "package_name": "com.waketecnologia.fitclubealuno"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLMd0rTJwWXjVhM-249YzeZq4Xb7MU4lY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

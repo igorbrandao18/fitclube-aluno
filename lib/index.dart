@@ -1,0 +1,29 @@
+// Export pages
+export '/fitclube/authetication/fit_home_screen/fit_home_screen_widget.dart'
+    show FitHomeScreenWidget;
+export '/fitclube/authetication/fit_page_registration/fit_page_registration_widget.dart'
+    show FitPageRegistrationWidget;
+export '/fitclube/authetication/fit_page_login/fit_page_login_widget.dart'
+    show FitPageLoginWidget;
+export '/fitclube/authetication/fit_page_reset_password/fit_page_reset_password_widget.dart'
+    show FitPageResetPasswordWidget;
+export '/fitclube/authetication/fit_page_verify_recover_account/fit_page_verify_recover_account_widget.dart'
+    show FitPageVerifyRecoverAccountWidget;
+export '/fitclube/pages/fit_homepage/fit_homepage_widget.dart'
+    show FitHomepageWidget;
+export '/fitclube/pages/fit_profile_user/fit_profile_user_widget.dart'
+    show FitProfileUserWidget;
+export '/fitclube/pages/fit_page_delete_account/fit_page_delete_account_widget.dart'
+    show FitPageDeleteAccountWidget;
+export '/fitclube/pages/fit_profile_gym/fit_profile_gym_widget.dart'
+    show FitProfileGymWidget;
+export '/fitclube/pages/fit_page_check_in/fit_page_check_in_widget.dart'
+    show FitPageCheckInWidget;
+export '/fitclube/pages/fit_page_history_training/fit_page_history_training_widget.dart'
+    show FitPageHistoryTrainingWidget;
+export '/fitclube/pages/fit_history_detailed/fit_history_detailed_widget.dart'
+    show FitHistoryDetailedWidget;
+export '/fitclube/pages/fit_edit_profile/fit_edit_profile_widget.dart'
+    show FitEditProfileWidget;
+export '/fitclube/authetication/termsof_resposabiliti/termsof_resposabiliti_widget.dart'
+    show TermsofResposabilitiWidget;
